@@ -1,0 +1,27 @@
+body {
+  background-image: url('https://www.ubiquitour.com/upload/1/cd/1cddadc826cf3c096a4ec02546124bc2.jpg');
+}
+h1 {
+  color: darkblue;
+}
+h1,
+h3,
+h4 {
+  text-align: center;
+}
+img {
+  width: 400px;
+}
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: lightsalmon;
+  padding: 50px;
+  border: 2px dotted indianred;
+  margin: 0 auto;
+  height: auto;
+}
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
